@@ -7,9 +7,14 @@
 - Once repo has the following strucutre
 
 data3001-modelling-f1-7
+
 |-data
+
     |-F1CleanedFinal.csv
+
     |-f1sim-ref-line.csv
+
 |-create_data.py
+
 
 simply run create_data.py in the root of the directory
