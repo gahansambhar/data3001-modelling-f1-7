@@ -6,11 +6,11 @@
 
 - Once repo has the following strucutre
 
-    data3001-data-f1-7/
-        ├── create_data.py
-        └── data/
-            ├── f1sim-ref-line.csv
-            └── F1CleanedFinal.csv
+      data3001-data-f1-7/
+          ├── create_data.py
+          └── data/
+              ├── f1sim-ref-line.csv
+              └── F1CleanedFinal.csv
 
 
-simply run create_data.py in the root of the directory
+  simply run `create_data.py/` in the root of the directory
