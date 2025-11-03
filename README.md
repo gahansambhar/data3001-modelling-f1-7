@@ -6,15 +6,13 @@
 
 - Once repo has the following strucutre
 
-data3001-modelling-f1-7
-
-|-data
-
-    |-F1CleanedFinal.csv
-
-    |-f1sim-ref-line.csv
-
-|-create_data.py
+    data3001-data-f1-7/
+        ├── create_data.py
+        └── data/
+            ├── f1sim-ref-left.csv
+            ├── f1sim-ref-right.csv
+            ├── f1sim-ref-line.csv
+            └── UNSW F12024.csv
 
 
 simply run create_data.py in the root of the directory
